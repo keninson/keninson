@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Eduard Korolevskiy and i am a Python Developer
+### Hi there 👋 My name is Eduard and i think Django framework is very COOL
 
 
 ### Languages and Tools
